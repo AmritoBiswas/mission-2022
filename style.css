@@ -1,0 +1,194 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+.firstsection{
+    display: flex;
+}
+.halfwidth{
+    
+    width: 50%;
+    padding-left: 150px;
+}
+.firstimage{
+    width: 80%;
+}
+.firstfirst{
+    margin-top: 50px;
+}
+.goldencolorh{
+    color: #FAAC5A;
+    font-size: 70px;
+}
+.firstparagraph{
+    color: #3C3F3E;
+    font-size: 19px;
+    width: 80%;
+    padding-bottom: 4px;
+}
+.stay{
+    color: #323332;
+    font-size: 65px;
+    padding-left: 5px;
+}
+.border{
+    border-left:5px solid #F1585C;
+}
+.linkbutton{
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    background-color: #F1585C;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    
+}
+.scroll{
+    margin-top: 50px;
+}
+.secondsection h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.year{
+    color:#FAAC5A
+}
+.secondsection{
+    margin-top: 50px;
+}
+.secondflex{
+    display: flex;
+}
+.onethird{
+    width: 21%;
+    padding-left: 20px;
+    border-radius: 10%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.onethird img{
+    width: 50%;
+}
+.onethird h3{
+    font-weight: 700;
+    font-size: 24px;
+
+    
+}
+#mission{
+    background-color: #EBF2F3;
+    margin-left: 15%;
+}
+#vission{
+    background-color:#FDECE8;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+#goal{
+    background-color: #FDF6D8;
+    margin-right: 10%;
+}
+.thirdsection{
+    display: flex;
+    background-image: url(images/pictures/Capture.PNG);
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.thirdsection img{
+    width: 70%;
+    margin-left:209px
+  
+}
+.third1{
+    width: 40%;
+}
+.third2{
+    width: 41%;
+    padding-left: 121px;
+}
+.third2 h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.third2 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;
+}
+.forthsection{
+    display: flex;
+}
+.fourth11{
+    width: 41%;
+    padding-left: 130px
+}
+.fourth11 h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.fourth11 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;
+}
+.fourth2{
+    width: 40%;
+}
+.forthsection img{
+    width: 88%;
+    padding-left: 140px;
+}
+.fifthsection h2{
+    
+   
+    font-size: 40px;
+    font-weight: bold;
+}
+.fifthsection p{
+    
+   
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;
+}
+.center{
+    text-align: center;
+}
+.fifth1{
+    width: 40%;
+}
+.fifth1 img{
+    width: 50%;
+    padding-left: 240px;
+}
+.fifth2{
+    width: 40%;
+    padding-left: 150px;
+    margin-top: 80px;
+}
+
+footer{
+    background-color: #101016;
+    height: 150px;
+    color: #fff;
+    text-align: center;
+}
+footer h2{
+    font-family: 'Lobster Two', cursive;
+    padding-top: 40px;
+    font-size: 40px;
+    
+    
+}
+.last{
+    color: #F1585C;
+   
+}
+.footerp{
+    color: #D9DBE1;
+    font-size: 14px;
+}
